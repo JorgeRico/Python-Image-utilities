@@ -1,0 +1,1 @@
+When code is executed, image appear in this folder
