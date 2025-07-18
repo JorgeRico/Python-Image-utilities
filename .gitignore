@@ -1,4 +1,4 @@
 __pycache__/
-# images/compressed/*
-# images/html/*
-# images/original/*
+images/compressed/*
+images/html/*
+images/original/*
